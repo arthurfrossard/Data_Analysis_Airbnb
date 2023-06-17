@@ -1,0 +1,20 @@
+ As perguntas de negócios
+1. Qual o valor médio do aluguel na cidade de Nova York?
+2. Quais os nomes das regiões que existem na cidade de Nova York?
+3. Qual o valor do aluguel diário mais caro da cidade de Nova York?
+4. Quais são as categorias de imóveis que estão cadastradas dentro da base
+de dados da cidade de Nova York?
+5. Quantos usuários (Hosts) únicos cadastrados existem dentro da base de
+dados da cidade de Nova York?
+6. Como é a variação do preços dos imóveis em NY?
+7. Existem mais imóveis baratos ou caros?
+8. Qual a distribuição do número de Reviews? Existem imóveis com muitos e outro com poucos reviews?
+9. Qual a distribuição dos imóveis de acordo com o número mínimo de pernoites que podem ser agendado?
+10. Qual a média e a mediana de imóveis cadastrado por host (dono do imóvel)?
+11. Qual a data mais recente da última avaliação
+12. Qual o valor máximo de pernoites agendadas?
+13. Quantos nomes de donos de imóveis são únicos?
+14. Quanto identificadores únicos existem na base de dados?
+15. Qual é o valor do aluguel (diária) mais caro de cada região da base de dados da cidade de Nova York, apenas para os imóveis disponível para alugar?
+16. Conseguimos saber onde estão localizados os imóveis com o valor do aluguel mais caro, na cidade de Nova York, apenas para os imóveis disponível para alugar?
+17. Conseguimos saber onde estão localizados os imóveis pelo seu tipo, apenas para os imóveis disponível para alugar?
